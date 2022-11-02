@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: node-js-example
+  annotations:
+    github.com/project-slug: chandu-zoomcamp/node-js-example
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
