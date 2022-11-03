@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: chandu-zoomcamp/node-js-example
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: experimental
   owner: guests
